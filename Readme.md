@@ -78,7 +78,7 @@ The application will be available at `http://localhost:3000`
   - Redis (for caching and session management)
   - express-session
   - connect-redis
-  - axios
+
 
 - **Frontend**
   - Bootstrap 5 (Simplex theme)
@@ -118,6 +118,4 @@ The application includes comprehensive error handling for:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
